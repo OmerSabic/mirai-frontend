@@ -1,0 +1,1 @@
+export const toLocaleDateString = (date: Date, locale: string) => date.toLocaleDateString(locale, {weekday:"short", year:"numeric",month:"short",day:"numeric"})

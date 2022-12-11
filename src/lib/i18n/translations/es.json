@@ -1,0 +1,160 @@
+{
+  "locale_code": "es",
+  "common": {
+    "back": "Atrás",
+    "is_required": "%field se requiere",
+    "edit": "Editar",
+    "save": "Guardad",
+    "cancel": "Cancelar",
+    "remove": "Eliminar",
+    "nothing_to_see": "Nothing to see here"
+  },
+  "home": {
+    "title": "MIRAI CLOTHING",
+    "view_more": "Ver más"
+  },
+  "footer": {
+    "shipping_to": "Enviar a",
+    "language": "Idioma"
+  },
+  "nav": {
+    "account": "Cuenta",
+    "cart": "Carrito"
+  },
+  "product": {
+    "from": "DESDE",
+    "add_to_cart": "Añadir al carrito",
+    "out_of_stock": "Agotado",
+    "product_information": "Información de producto",
+    "material": "Material",
+    "country_of_origin": "País de origen",
+    "type": "Tipo",
+    "weight": "Peso",
+    "dimensions": "Dimensiones",
+    "tags": "Etiquetas",
+    "related_products": "Productos similares",
+    "related_product_subtitle": "Puede que también te interesen estos productos.",
+    "select_options": "Elige tus opciones"
+  },
+  "account": {
+    "first_name": "Nombre",
+    "last_name": "Apellidos",
+    "company": "Empresa",
+    "address": "Dirección",
+    "apartment": "ApartAmento",
+    "city": "Ciudad",
+    "state": "Estado / Región",
+    "country": "País",
+    "postal_code": "Codigo postal",
+    "email": "Correo Electrónico",
+    "password": "Contraseña",
+    "phone": "Número de Telefono",
+    "incorrect_credentials": "Estas credenciales no coinciden con nuestro registro",
+    "invalid_email_or_password": "Contraseña o correo incorrecto",
+    "error_occured": "Hubo un error. Por favor intente más tarde.",
+    "failed_to_add_address": "Error al guardar domicilio, por favor intente más tarde.",
+    "failed_to_update_address": "Error al actualizar domicilio, por favor intente más tarde.",
+    "failed_to_update_email": "Error al actualizar correo, por favor intente más tarde.",
+    "use_save_address": "Hola %customer, ¿quiere usar uno de los domicilios guardados?",
+    "sign_in": {
+      "welcome": "Bienvenido",
+      "welcome_subtitle": "Inicia sesión para tener una mejor experiencia.",
+      "enter": "Entra",
+      "not_a_member": "¿No eres miembro?",
+      "join_us": "Únete"
+    },
+    "register": {
+      "title": "Házte miembro de Mirai",
+      "subtitle": "Crea tu perfil Mirai, y accede a una mejor experiencia de compra.",
+      "join": "Únirse",
+      "sign_in": "Iniciar sesión",
+      "agree": "Al crear una cuenta con Mirai aceptas",
+      "privacy_policy": "la Politica de Privacidad",
+      "and": "y",
+      "terms_of_use": "los Términos de Uso",
+      "already_a_member": "¿Ya tienes cuenta?"
+    },
+    "page": {
+      "hello": "Hola",
+      "overview": "General",
+      "account": "Cuenta",
+      "profile": "Perfil",
+      "addresses": "Domicilios",
+      "orders": "Pedidos",
+      "recent_orders": "Pedidos recientes",
+      "signed_in_as": "Sesión iniciado como",
+      "completed": "Completado",
+      "saved": "Guardado",
+      "date_placed": "Fecha",
+      "order_number": "Número de pedido",
+      "total_amount": "Total",
+      "go_to_order": "Ir a pedido",
+      "see_details": "Ver detalles",
+      "more": "más",
+      "item": "producto",
+      "items": "productos",
+      "add_address": "Añadir domicilio",
+      "new_address": "Nuevo domicilio",
+      "edit_address": "Editar domicilio",
+      "edit_email": "Edit correo",
+      "must_be_valid_email": "Tiene que usar un correo valido",
+      "password_must_be_different": "La nueva contraseña tiene que ser diferente a la antigua.",
+      "profile_subtitle": "Vea y actualice la información de su perfil, incluyendo su nombre, correo electrónico \ny número de teléfono. También puede actualizar su dirección de facturación o cambiar su contraseña.",
+      "orders_subtitle": "Vea sus pedidos anteriores y su estado. También puede crear \ndevoluciones o cambios para sus pedidos si es necesario.",
+      "shipping_subtitle": "Vea y actualice sus direcciones de envío, puede añadir tantas como \nquiera. Si guarda sus direcciones, estarán disponibles durante el proceso de compra.",
+      "log_out": "Cerrar sesión"
+    }
+  },
+  "customer_service": {
+    "got_questions": "¿Tienes preguntas?",
+    "subtitle": "Puedes encontrar respuestas a preguntas frecuentes en nuestra pagina de servicio al cliente.",
+    "customer_service": "Servicio al cliente",
+    "contact": "Contacto"
+  },
+  "cart": {
+    "title": "Carrito de compra",
+    "go_to_checkout": "Pagar",
+    "empty": "Tu carrito de compra esta vacío",
+    "empty_subtitle": "No tienes nada en tú carrito. Cambiemos eso, haz clic abajo para ver nuestros productos",
+    "explore": "Explorar productos",
+    "subtotal": "Subtotal",
+    "discount": "Descuento",
+    "gift_card": "Tarjeta de regalo",
+    "shipping": "Envío",
+    "taxes": "Impuestos",
+    "total": "Total",
+    "free_shipping": "Envío gratis",
+    "invalid_code": "El código no es valido",
+    "code": "Código",
+    "remove_gift": "Eliminar tarjeta de regalo del pedido",
+    "apply": "Aplicar"
+  },
+  "sign_in_prompt": {
+    "title": "¿Ya tienes cuenta?",
+    "subtitle": "Inicia sesión para tener una mejor experiencia",
+    "button": "Iniciar sesión"
+  },
+  "checkout": {
+    "back_to_cart": "Volver al carrito de compra",
+    "shipping_address": "Domicilio de envío",
+    "billing_address": "Domicilio de facturación",
+    "continue": "Continuar al envío",
+    "same_as_billing": "Igual al domicilio de facturación",
+    "error": "Un error ocurrio al añadir envío. Por favor intente de nuevo.",
+    "enter_address": "Ingrese su domicilio para ver opciones de envío.",
+    "payment": "Método de pago",
+    "delivery": "Envío",
+    "delivery_method": "Método de entrega"
+  },
+  "shop": {
+    "collections": "Colecciones"
+  },
+  "order": {
+    "order_placed": "Gracias, su compra ha sido exitosa",
+    "order_summary": "Resumen de Compra",
+    "quantity": "Cantidad"
+  },
+  "support": {
+    "email": "Por favor, envíenos un correo electrónico a support@miraiclothing.shop para obtener ayuda"
+  }
+}

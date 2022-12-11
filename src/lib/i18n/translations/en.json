@@ -1,0 +1,160 @@
+{
+  "locale_code": "en",
+  "common": {
+    "back": "Back",
+    "is_required": "%field is required",
+    "edit": "Edit",
+    "save": "Save",
+    "cancel": "Cancel",
+    "remove": "Remove",
+    "nothing_to_see": "Nothing to see here"
+  },
+  "home": {
+    "title": "MIRAI CLOTHING",
+    "view_more": "View More"
+  },
+  "footer": {
+    "shipping_to": "Shipping to",
+    "language": "Language"
+  },
+  "nav": {
+    "account": "Account",
+    "cart": "Cart"
+  },
+  "product": {
+    "from": "FROM",
+    "add_to_cart": "Add to cart",
+    "out_of_stock": "Out of stock",
+    "product_information": "Product information",
+    "material": "Material",
+    "country_of_origin": "Country of origin",
+    "type": "Type",
+    "weight": "Weight",
+    "dimensions": "Dimensions",
+    "tags": "Tags",
+    "related_products": "Related products",
+    "related_product_subtitle": "You might also want to check out these products.",
+    "select_options": "Select Options"
+  },
+  "account": {
+    "first_name": "First name",
+    "last_name": "Last name",
+    "company": "Company",
+    "address": "Address",
+    "apartment": "Apartment, suite, etc.",
+    "city": "City",
+    "state": "Province / State",
+    "country": "Country",
+    "postal_code": "Postal code",
+    "email": "Email",
+    "password": "Password",
+    "phone": "Phone",
+    "incorrect_credentials": "These credentials do not match our records",
+    "invalid_email_or_password": "Invalid email or password",
+    "error_occured": "An error occured. Please try again.",
+    "failed_to_add_address": "Failed to add address, please try again.",
+    "failed_to_update_address": "Failed to update address, please try again.",
+    "failed_to_update_email": "Failed to update email, please try again.",
+    "use_save_address": "Hi %customer, do you want to use one of your saved addresses?",
+    "sign_in": {
+      "welcome": "Welcome back",
+      "welcome_subtitle": "Sign in to access an enhanced shopping experience.",
+      "enter": "Enter",
+      "not_a_member": "Not a member?",
+      "join_us": "Join us"
+    },
+    "register": {
+      "title": "Become a Mirai Member",
+      "subtitle": "Create your Mirai Member profile, and get access to an enhanced shopping experience.",
+      "join": "Join",
+      "sign_in": "Sign in",
+      "agree": "By creating an account, you agree to Mirai's",
+      "privacy_policy": "Privacy Policy",
+      "and": "and",
+      "terms_of_use": "Terms of Use",
+      "already_a_member": "Already a member?"
+    },
+    "page": {
+      "hello": "Hello",
+      "overview": "Overview",
+      "account": "Account",
+      "profile": "Profile",
+      "addresses": "Addresses",
+      "orders": "Orders",
+      "recent_orders": "Recent orders",
+      "signed_in_as": "Signed in as",
+      "completed": "Completed",
+      "saved": "Saved",
+      "date_placed": "Date placed",
+      "order_number": "Order number",
+      "total_amount": "Total amount",
+      "go_to_order": "Go to order",
+      "see_details": "See details",
+      "more": "more",
+      "item": "item",
+      "items": "items",
+      "add_address": "Add address",
+      "new_address": "New address",
+      "edit_address": "Edit address",
+      "edit_email": "Edit your email",
+      "must_be_valid_email": "Must be a valid email",
+      "password_must_be_different": "New password must be different from old password.",
+      "profile_subtitle": "View and update your profile information, including your name, email,\nand phone number. You can also update your billing address, or change\nyour password.",
+      "orders_subtitle": "View your previous orders and their status. You can also create\nreturns or exchanges for your orders if needed.",
+      "shipping_subtitle": "View and update your shipping addresses, you can add as many as you\nlike. Saving your addresses will make them available during checkout.",
+      "log_out": "Log out"
+    }
+  },
+  "customer_service": {
+    "got_questions": "Got questions?",
+    "subtitle": "You can find frequently asked questions and answers on our customer service page.",
+    "customer_service": "Customer service",
+    "contact": "Contact"
+  },
+  "cart": {
+    "title": "Shopping bag",
+    "go_to_checkout": "Go to checkout",
+    "empty": "Your shopping bag is empty",
+    "empty_subtitle": "You don't have anything in your bag. Let&apos;s change that, use the link below to start browsing our products.",
+    "explore": "Explore products",
+    "subtotal": "Subtotal",
+    "discount": "Discount",
+    "gift_card": "Gift card",
+    "shipping": "Shipping",
+    "taxes": "Taxes",
+    "total": "Total",
+    "free_shipping": "Free shipping",
+    "invalid_code": "Code is invalid",
+    "code": "Code",
+    "remove_gift": "Remove gift card from order",
+    "apply": "Apply"
+  },
+  "sign_in_prompt": {
+    "title": "Already have an account?",
+    "subtitle": "Sign in for a better experience.",
+    "button": "Sign in"
+  },
+  "checkout": {
+    "back_to_cart": "Back to shopping cart",
+    "shipping_address": "Shipping address",
+    "billing_address": "Billing address",
+    "continue": "Continue to delivery",
+    "same_as_billing": "Same as billing address",
+    "error": "An error occurred while adding shipping. Please try again.",
+    "enter_address": "Enter your address to see available delivery options.",
+    "payment": "Payment",
+    "delivery": "Delivery",
+    "delivery_method": "Delivery method"
+  },
+  "shop": {
+    "collections": "collections"
+  },
+  "order": {
+    "order_placed": "Thank you, your order was successfully placed",
+    "order_summary": "Order Summary",
+    "quantity": "Quantity"
+  },
+  "support": {
+    "email": "Please email us at support@miraiclothing.shop for help"
+  }
+}
